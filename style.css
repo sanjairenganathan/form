@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    width: 600px;
+    margin: auto;
+    color: black;
+    background-image: url("https://images.pexels.com/photos/4046718/pexels-photo-4046718.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+h1{
+    font-size: 30px;
+    font-family: 'BlinkMacSystemFont';
+    font-style: inherit;
+}
+h2{
+    font-size: 30px;
+    color: red;
+    font-family: 'Verdana';
+    margin-top: 280px;
+    text-align: center;
+}
